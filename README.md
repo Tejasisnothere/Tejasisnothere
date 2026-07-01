@@ -1,8 +1,4 @@
-<!--
-  Tejas Kadam — GitHub Profile README
-  Replace all instances of "your-username", "your-linkedin", "your-leetcode",
-  and "your-email@example.com" with your actual links before publishing.
--->
+
 
 <div align="center">
 
@@ -12,7 +8,7 @@
 ### 🤖 AI Engineer | Full Stack Developer | Open Source Contributor
 ### 🚀 Building LLM applications, Agentic AI systems, and scalable backend platforms
 
-<!-- Typing animation — replace username/params as desired -->
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Full+Stack+Developer;ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 
 </div>
@@ -159,9 +155,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-leetcode)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejas-kadam2004)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Tejasisnothere)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tejasisnothere)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejaskadam209@example.com)
 
 </div>
