@@ -4,8 +4,8 @@
 
 <br/>
 
-### 🎓 B.Tech Computer Science and Business Systems @ VIT
-### 🚀 Building LLM applications, Agentic AI systems, and scalable backend platforms
+### B.Tech Computer Science and Business Systems @ VIT
+### Building LLM applications, Agentic AI systems, and scalable backend platforms
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Full+Stack+Developer;ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 
@@ -14,29 +14,29 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejas-kadam2004)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Tejasisnothere)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tejasisnothere)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejaskadam209@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejaskadam209@example.com)
 
 </div>
 
-<br/>
+---
 
-## 🧠&nbsp; About Me
+## About Me
 
 ```yaml
-🔭 Currently working on:   Agentic AI & Compliance Intelligence systems
-🌱 Currently learning:     Distributed Systems, Cloud Infra, Advanced LLM architectures
-💡 Interested in:          NLP, RAG systems, Docker deployments, scalable APIs
-🎯 Goal:                   Ship production-ready AI applications that solve real problems
+Current Focus : Agentic AI & Compliance Intelligence Systems
+Learning      : Distributed Systems, Cloud Infrastructure, Advanced LLM Architectures
+Interests     : NLP, RAG Systems, Docker, Scalable APIs
+Goal          : Build production-ready AI applications that solve real-world problems
 ```
 
-<br/>
+---
 
-## 🛠️&nbsp; Tech Stack
+## Tech Stack
 
 <table width="100%">
 <tr>
 <td valign="top" width="20%"><b>Languages</b></td>
-<td valign="top" width="80%">
+<td>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -45,9 +45,10 @@
 
 </td>
 </tr>
+
 <tr>
-<td valign="top"><b>Frameworks</b></td>
-<td valign="top">
+<td><b>Frameworks</b></td>
+<td>
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -57,21 +58,23 @@
 
 </td>
 </tr>
+
 <tr>
-<td valign="top"><b>AI / ML</b></td>
-<td valign="top">
+<td><b>AI / ML</b></td>
+<td>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-9B59B6?style=flat-square)
 
 </td>
 </tr>
+
 <tr>
-<td valign="top"><b>Cloud & DevOps</b></td>
-<td valign="top">
+<td><b>Cloud & DevOps</b></td>
+<td>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
@@ -80,9 +83,10 @@
 
 </td>
 </tr>
+
 <tr>
-<td valign="top"><b>Databases</b></td>
-<td valign="top">
+<td><b>Databases</b></td>
+<td>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -93,72 +97,25 @@
 </tr>
 </table>
 
-<br/>
+---
 
-## 🚀&nbsp; Featured Projects
+## Featured Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+| Project | Description |
+|----------|-------------|
+| **Artemis** | AI-powered financial compliance analyzer using LLMs and document intelligence. |
+| **ShopTrack** | Retail demand forecasting platform using time-series analysis and machine learning. |
+| **SpendWise** | Personal finance dashboard with analytics and expense visualization. |
+| **DSA AI Interview Simulator** | LangGraph-based adaptive coding interview platform with Elo-based difficulty scaling. |
 
-### 🔍 Artemis
-**AI Financial Compliance Analyzer**
+---
 
-LLM-powered compliance analysis platform with intelligent document understanding.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-000000?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 ShopTrack
-**Retail Demand Forecasting Platform**
-
-Time-series forecasting system for retail inventory and sales prediction.
-
-![ML](https://img.shields.io/badge/ML-FF6F00?style=flat-square)
-![Forecasting](https://img.shields.io/badge/Forecasting-9B59B6?style=flat-square)
-![Analytics](https://img.shields.io/badge/Analytics-2ECC71?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💰 SpendWise
-**Personal Finance Dashboard**
-
-Interactive finance tracking and analytics dashboard.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Charts](https://img.shields.io/badge/Charts-FF6384?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 DSA AI Interview Simulator
-**Adaptive, Elo-Scaled Coding Interview Engine**
-
-LangGraph-driven system that generates and evaluates DSA questions with adaptive difficulty.
-
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![LLM](https://img.shields.io/badge/LLM-000000?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 📈&nbsp; GitHub Stats
+## GitHub Statistics
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tejasisnothere&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" />
+
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejasisnothere&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF" />
 
 <br/>
@@ -171,28 +128,20 @@ LangGraph-driven system that generates and evaluates DSA questions with adaptive
 
 </div>
 
-<br/>
+---
 
-## 🏅&nbsp; Achievements
+## Achievements
 
-<table width="100%">
-<tr>
-<td width="50%">🏅 400+ LeetCode Problems Solved</td>
-<td width="50%">🏅 Hackathon Finalist</td>
-</tr>
-<tr>
-<td width="50%">🏅 Open Source Contributor</td>
-<td width="50%">🏅 GitHub Pull Shark Achievement</td>
-</tr>
-<tr>
-<td width="50%">🏅 GitHub YOLO Achievement</td>
-<td width="50%">🏅 Strong academic performance in JEE & coursework</td>
-</tr>
-</table>
+- 400+ LeetCode Problems Solved
+- Hackathon Finalist
+- Open Source Contributor
+- GitHub Pull Shark Achievement
+- GitHub YOLO Achievement
+- Strong Academic Performance in JEE & University Coursework
 
-<br/>
+---
 
-## 🧭&nbsp; Currently Building — 2026
+## Currently Building (2026)
 
 <div align="center">
 
@@ -204,12 +153,12 @@ LangGraph-driven system that generates and evaluates DSA questions with adaptive
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer" width="100%"/>
 
-**Thanks for stopping by — let's build something great.** ⚡
+**Building reliable AI systems through engineering, research, and continuous learning.**
 
 </div>
