@@ -134,9 +134,6 @@ Goal          : Build production-ready AI applications that solve real-world pro
 
 - 400+ LeetCode Problems Solved
 - Hackathon Finalist
-- Open Source Contributor
-- GitHub Pull Shark Achievement
-- GitHub YOLO Achievement
 - Strong Academic Performance in JEE & University Coursework
 
 ---
